@@ -38,7 +38,10 @@
       </VBox>
    </right>
    <top>
-      <Label text="Radio Grupo5 Top 10" BorderPane.alignment="CENTER">
+      <Label text="RadioXYZ Top 10" BorderPane.alignment="CENTER">
+
+      <Label text="Radio Grupo 5 Top 10" BorderPane.alignment="CENTER">
+
          <font>
             <Font name="System Bold" size="24.0" />
          </font>
