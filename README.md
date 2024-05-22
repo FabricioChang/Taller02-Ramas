@@ -11,3 +11,6 @@
 
 ### José Delgado
 ![image](https://github.com/FabricioChang/Taller02-Ramas/assets/88107436/8825ff3f-98da-45f6-9e20-ed54035910b1)
+
+### Mateo Mayorga
+![Captura de pantalla 2024-05-22 155810](https://github.com/FabricioChang/Taller02-Ramas/assets/103150863/ee6562c9-3c4c-4122-9b8b-fe077d46d8d9)
