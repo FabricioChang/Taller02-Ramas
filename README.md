@@ -8,3 +8,6 @@
 
 ### Fabricio Chang
 ![image](https://github.com/FabricioChang/Taller02-Ramas/assets/150054392/03ad2522-3bb1-4f60-bfba-4a7a33db0eec)
+
+### José Delgado
+![image](https://github.com/FabricioChang/Taller02-Ramas/assets/88107436/8825ff3f-98da-45f6-9e20-ed54035910b1)
